@@ -17,7 +17,7 @@ Algorithm: FIRST_FIT_BIN_PACKING
 7.End
 
 Program:
-#include <stdio.h>
+#include<stdio.h>
 int main()
 {
     int n, i, j;
